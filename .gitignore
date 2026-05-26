@@ -14,3 +14,7 @@ htmlcov/
 
 # local Claude Code settings
 .claude/settings.local.json
+
+# oh-my-openagent state (keep plans tracked)
+.omo/*
+!.omo/plans/
